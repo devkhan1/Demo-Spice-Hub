@@ -73,6 +73,31 @@ Then visit: http://localhost:3000
 
 ---
 
+## 📸 Visual Previews
+
+Selected screenshots from the live demo — stored in the `/demo-assets/` folder.
+
+### 🔹 Homepage
+![Homepage](./demo-assets/homepage-1.png)
+
+### 🔹 Featured Menu Items
+![Items](./demo-assets/items.png)
+
+### 🔹 Feature Highlights
+![Features](./demo-assets/features.png)
+
+### 🔹 Customer Reviews
+![Reviews](./demo-assets/reviews.png)
+
+### 🔹 Contact Section
+![Contact](./demo-assets/contact.png)
+
+### 🔹 Food Hygiene Rating Badge
+![Hygiene Rating](./demo-assets/hygiene-rating.png)
+
+> These previews help convey layout and visual flow for potential users, clients, or partners without requiring a live deployment or clone setup.
+
+
 ## 💸 Pricing Options
 
 ### 1. Design-Only Template License
