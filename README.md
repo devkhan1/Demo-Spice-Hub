@@ -75,27 +75,25 @@ Then visit: http://localhost:3000
 
 ## 📸 Visual Previews
 
-Selected screenshots from the live demo — stored in the `/demo-assets/` folder.
+Selected screenshots from the live demo, stored in the [`/demo-assets/`](./demo-assets) folder.
 
 ### 🔹 Homepage
-![Homepage](./demo-assets/homepage-1.png)
+<img src="./demo-assets/homepage-1.png" alt="Homepage preview" width="800"/>
 
 ### 🔹 Featured Menu Items
-![Items](./demo-assets/items.png)
+<img src="./demo-assets/items.png" alt="Menu items preview" width="800"/>
 
 ### 🔹 Feature Highlights
-![Features](./demo-assets/features.png)
+<img src="./demo-assets/features.png" alt="Features section preview" width="800"/>
 
 ### 🔹 Customer Reviews
-![Reviews](./demo-assets/reviews.png)
+<img src="./demo-assets/reviews.png" alt="Customer reviews preview" width="800"/>
 
 ### 🔹 Contact Section
-![Contact](./demo-assets/contact.png)
+<img src="./demo-assets/contact.png" alt="Contact section preview" width="800"/>
 
 ### 🔹 Food Hygiene Rating Badge
-![Hygiene Rating](./demo-assets/hygiene-rating.png)
-
-> These previews help convey layout and visual flow for potential users, clients, or partners without requiring a live deployment or clone setup.
+<img src="./demo-assets/hygiene-rating.png" alt="Hygiene badge preview" width="400"/>
 
 
 ## 💸 Pricing Options
