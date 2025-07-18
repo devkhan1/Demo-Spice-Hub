@@ -9,6 +9,7 @@ This project is a professionally designed, fully responsive restaurant and small
 ## 🌐 Live Demo  
 👉 https://menuverse-919eu.web.app
 
+📄 **Pitch Pack PDF**: [Download PDF](./Rahmx_Pitch_Pack.pdf)
 ---
 
 ## 📦 Repository  
