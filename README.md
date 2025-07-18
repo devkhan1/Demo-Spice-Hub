@@ -13,7 +13,7 @@ This project is a professionally designed, fully responsive restaurant and small
 ---
 
 ## 📦 Repository  
-🧾 GitHub Repo: https://github.com/devkhan1/Spice-Hub
+🧾 GitHub Repo: https://github.com/devkhan1/Demo-Spice-Hub
 
 ---
 
@@ -159,6 +159,9 @@ Explore more: 🌐 https://www.rahmx.co.uk
 
 ## 📁 Related Projects
 
+- Founders Portfolio:
+- **Live Portfolio:** [https://khan.rahmx.co.uk](https://khan.rahmx.co.uk)  
+
 - 🔮 DemoX-Reimagined – AI Branding Template  
   👉 Live: https://rahmx-reimagined.web.app  
   🧾 GitHub: https://github.com/devkhan1/DemoX-Reimagined
@@ -166,6 +169,30 @@ Explore more: 🌐 https://www.rahmx.co.uk
 - 💼 Rahmx Ltd – Company Showcase  
   🌐 Website: https://www.rahmx.co.uk  
   🧾 GitHub: https://github.com/devkhan1/RahmX-Ltd-Demo-Showcase
+
+---
+
+## 🔍 Philosophy & Vision
+
+1. **ZamaGPT™ Framework**  
+   Ethical AI memory model built on sacred principles of memory and knowledge.  
+2. **Human Dignity & Truth**  
+   Technology that serves humanity and combats misinformation.  
+3. **Pioneering Innovation**  
+   Pushing the boundaries of web architecture and AI.
+
+   ## 🤝 Join, Collaborate & Learn
+
+I’m always looking for passionate collaborators and fresh ideas. Whether you’re a developer, designer, or AI enthusiast, let’s build something amazing together:
+
+- **Collaborate on Projects:** Got an idea for an ethical AI tool, web app, or automation workflow? Let’s partner up—drop me a line at info@rahmx.co.uk.  
+- **Share Your Ideas:** Have a concept or challenge you want to solve? I love brainstorming new solutions—reach out anytime!  
+- **Courses Coming Soon:** Stay tuned for online courses on Next.js, Tailwind CSS, AI prompt engineering, and ethical memory‑powered systems.  
+- **Learn Alongside Me:** Want to pick up these skills yourself? Subscribe to my YouTube channel for tutorials, walkthroughs, and live coding sessions:  
+  [YouTube: DevKhan1](https://www.youtube.com/channel/UCYourChannelID)  
+- **Join the Community:** Follow me on LinkedIn and Twitter for tips, resources, and updates as each course and project goes live.
+
+Let’s learn, innovate, and shape the future of ethical technology—together!  ```
 
 ---
 
