@@ -160,7 +160,7 @@ Explore more: 🌐 https://www.rahmx.co.uk
 ## 📁 Related Projects
 
 - Founders Portfolio:
-- **Live Portfolio:** [https://khan.rahmx.co.uk](https://khan.rahmx.co.uk)  
+**Live Portfolio:** [https://khan.rahmx.co.uk](https://khan.rahmx.co.uk)  
 
 - 🔮 DemoX-Reimagined – AI Branding Template  
   👉 Live: https://rahmx-reimagined.web.app  
@@ -181,7 +181,7 @@ Explore more: 🌐 https://www.rahmx.co.uk
 3. **Pioneering Innovation**  
    Pushing the boundaries of web architecture and AI.
 
-   ## 🤝 Join, Collaborate & Learn
+## 🤝 Join, Collaborate & Learn
 
 I’m always looking for passionate collaborators and fresh ideas. Whether you’re a developer, designer, or AI enthusiast, let’s build something amazing together:
 
